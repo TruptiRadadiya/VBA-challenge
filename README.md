@@ -15,7 +15,7 @@
 1. Copy the code from multiple_year_stock.vbs file and paste it into a VBA module of your excel file.
 2. Run the macro called **stockChange**
 
-# What to expect
+### What to expect
 
 Once the macro runs successfully, a ticker summary table and the table to show greatest value for each ticker as mentioned above.
 
